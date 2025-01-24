@@ -2,7 +2,7 @@
 
 ## What is a Merkle Tree?
 
-A Merkle tree (also known as a hash tree) is like a family tree for data. Imagine you have a bunch of files or transactions, and you want an efficient way to verify if any of them have been tampered with. That's where Merkle trees come in!
+A Merkle tree (also known as a [hash tree](https://en.wikipedia.org/wiki/Merkle_tree)) is like a family tree for data. Imagine you have a bunch of files or transactions, and you want an efficient way to verify if any of them have been tampered with. That's where Merkle trees come in!
 
 ## How Does it Work?
 
